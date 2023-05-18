@@ -7,7 +7,7 @@ Delete Task
 Complete Task
 # LANGUAGE
 Vanilla Java Script , HTML and CSS
-#What i learn 
+# What i learn 
 During these project i learn something new ideas to create a API. I gather some ideas from Google and Youtube then i create these project.I also learned about storage API and how to use it.
 # INSTALLATION
  https://github.com/Anit6748/Todo-List.git
